@@ -64,4 +64,14 @@ h2{
     font-size: 12px;
     font-family: Open Sans;
 }
+@media (max-width: 768px) {
+    div {
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        width: 300px;
 
+      }
+
+    }
